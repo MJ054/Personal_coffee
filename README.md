@@ -12,7 +12,8 @@
 
 ## 3. 실행화면
 **고객용 앱**<br>
-![pcoffee](https://github.com/MJ054/Personal_coffee/assets/109513458/0d4b5db8-ed27-4d17-9007-de1795799d73)
+![pcoffee](https://github.com/MJ054/Personal_coffee/assets/109513458/88aff079-bf4c-4bfa-b55d-3331f2538b6d)
 
 **하드웨어**<br>
-![pcoffee2](https://github.com/MJ054/Personal_coffee/assets/109513458/b511e255-d5b7-452b-893a-8f9fea083dcf)
+![pcoffee2](https://github.com/MJ054/Personal_coffee/assets/109513458/6ee0ccb8-655b-4a3b-a8d4-b6c7dab03666)
+
